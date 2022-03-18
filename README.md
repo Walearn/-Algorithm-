@@ -1,30 +1,7 @@
-# 环境是python-3.10.2和jupyter
+# 瀛︿範绠楁硶鏃剁殑绗旇
 
-## 环境搭建
+## 鎺掑簭绠楁硶
 
-### 安装python
+鍐掓场鎺掑簭锛堬級
 
-?	这个不是很复杂相信大家一定都会
-
-### 安装jupyter
-
-?	打开cmd  输入
-
-`pip install jupyter `
-
-下载好后  打开python路径里的Script 我的是C:\python\Script
-
-找到jupyter  -notebook.exe 文件 运行即可
-
-它会打开你的浏览器 进入jupyter 的页面 
-
-这个页面你会看到很多文件 其实就是你的Script文件夹里的文件
-
-
-
-
-
-
-
-
-
+閫夋嫨鎺掑簭锛堬級
